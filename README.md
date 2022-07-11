@@ -1,10 +1,14 @@
 # JS-React-Productivity-Project
 
-Languages: JavaScript, React, Python, External/Internal Libraries (if need be)
+Languages: HTML, CSS, JavaScript, React, Python, External/Internal Libraries (if need be)
+
+1) HTML - Information
+2) CSS - Design
+3) JavaScript - Behavior (Hardest)
 
 Interface Features:
-- Calendar
 - Todo List
 - Progress Checker
 - Setting Goals
+- Calendar
 - Add More
